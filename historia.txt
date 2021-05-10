@@ -1,1 +1,2 @@
-Hola Soy Anahí y tengo 33 años y nací en Perú
+Hola Soy Anahí y tengo 33 años y nací en Perú. 
+Estoy aprendiendo a utilizar git 
