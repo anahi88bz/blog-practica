@@ -2,4 +2,9 @@ body {
     text-align: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: hotpink;
+    font-size: 2rem;
+}
+
+html {
+    font-size: 62.5%;
 }
