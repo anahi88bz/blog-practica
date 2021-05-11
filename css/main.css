@@ -7,4 +7,6 @@ body {
 img {
     width: 10%;
         vertical-align: middle;
+footer {
+    background-color: indigo;
 }
